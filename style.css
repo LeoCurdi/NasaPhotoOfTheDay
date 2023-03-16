@@ -1,0 +1,32 @@
+
+body {
+    background-image: url('images/stars.jpg');
+    color: white;
+    text-align: center;
+}
+
+.linkContainer {
+    margin-top: 1em;
+}
+
+a {
+    font-weight: bold;
+    font-size: x-large;
+    color: blue; /* rgb(42, 42, 255) */
+}
+
+#nasa-image {
+    max-height: 75vh;
+    max-width: 75vw;
+    border: .15em solid blueviolet;
+}
+
+#title {
+    font-size: xx-large;
+}
+
+#description {
+    font-weight: bold; 
+    font-size: x-large;
+    padding: 0 5.5em;
+}
